@@ -15,6 +15,7 @@
 		C067CF8F2AE7A93100F30F4B /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C067CF8E2AE7A93100F30F4B /* UserData.swift */; };
 		C067CF912AE7A95000F30F4B /* UserDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C067CF902AE7A95000F30F4B /* UserDetailView.swift */; };
 		C067CF932AE7A97700F30F4B /* UserListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C067CF922AE7A97700F30F4B /* UserListView.swift */; };
+		C067CF962AE7B18C00F30F4B /* Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png in Resources */ = {isa = PBXBuildFile; fileRef = C067CF952AE7B18C00F30F4B /* Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C067CF8E2AE7A93100F30F4B /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		C067CF902AE7A95000F30F4B /* UserDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailView.swift; sourceTree = "<group>"; };
 		C067CF922AE7A97700F30F4B /* UserListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListView.swift; sourceTree = "<group>"; };
+		C067CF952AE7B18C00F30F4B /* Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				C067CF922AE7A97700F30F4B /* UserListView.swift */,
 				C067CF8C2AE7A91000F30F4B /* Model.swift */,
 				C067CF8E2AE7A93100F30F4B /* UserData.swift */,
+				C067CF942AE7B11000F30F4B /* Screen */,
 				C067CF822AE7A6C300F30F4B /* Assets.xcassets */,
 				C067CF842AE7A6C300F30F4B /* Preview Content */,
 			);
@@ -77,6 +80,14 @@
 				C067CF852AE7A6C300F30F4B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C067CF942AE7B11000F30F4B /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				C067CF952AE7B18C00F30F4B /* Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png */,
+			);
+			path = Screen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +148,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C067CF962AE7B18C00F30F4B /* Simulator Screenshot - iPhone 15 Pro - 2023-10-24 at 10.01.57.png in Resources */,
 				C067CF862AE7A6C300F30F4B /* Preview Assets.xcassets in Resources */,
 				C067CF832AE7A6C300F30F4B /* Assets.xcassets in Resources */,
 			);
